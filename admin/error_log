@@ -1,0 +1,534 @@
+[18-May-2018 00:07:14 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:07:29 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:11:57 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:12:04 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:16:29 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:16:40 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:18:14 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:18:25 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/product! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/featured.php(112): Loader->model('catalog/product')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuleFeatured->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/ in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 00:27:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '4')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('4', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 00:30:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, integer given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 72 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(72): Event->trigger('post.admin.mega...', 9)
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->addMegaheader(Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(23): Proxy->__call('addMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->add()
+#5 /home/photo167/public_html/dahanimmobili in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 00:32:31 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '9')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('9', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 00:38:12 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '3')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('3', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 00:57:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 00:58:42 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '9')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('9', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 12:53:13 UTC] PHP Fatal error:  Uncaught Exception: Error: Table 'photo167_dadb2.oc_banner_image_description' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_banner_image_description WHERE language_id = '2' in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(16): DB\MySQLi->query('DELETE FROM oc_...', Array)
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/model/localisation/language.php(222): DB->query('DELETE FROM oc_...')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelLocalisationLanguage->deleteLanguage('2')
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/admin/controller/localisation/language.php(88): Proxy->__call('deleteLanguage', Array)
+#5 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/act in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 40
+[18-May-2018 13:01:27 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '7')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('7', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 13:06:35 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '9')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('9', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 13:07:18 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 13:07:40 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '1')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('1', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 13:08:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '8')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('8', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 13:08:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 14:20:08 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 14:20:21 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[18-May-2018 17:18:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 52 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(52): Event->trigger('pre.admin.faq.d...', '3')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->deletefaq('3')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(112): Proxy->__call('deletefaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->delete()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execu in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 17:18:43 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 52 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(52): Event->trigger('pre.admin.faq.d...', '3')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->deletefaq('3')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(112): Proxy->__call('deletefaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->delete()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execu in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:13:51 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 48 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(48): Event->trigger('post.admin.faq....', '3')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->editfaq('3', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(67): Proxy->__call('editfaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->edit()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execu in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:14:35 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 48 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(48): Event->trigger('post.admin.faq....', '3')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->editfaq('3', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(67): Proxy->__call('editfaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->edit()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execu in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:18:23 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 48 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(48): Event->trigger('post.admin.faq....', '3')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->editfaq('3', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(67): Proxy->__call('editfaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->edit()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execu in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:21:48 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:22:16 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:23:22 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:24:36 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 48 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(48): Event->trigger('post.admin.faq....', '3')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->editfaq('3', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(67): Proxy->__call('editfaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->edit()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execu in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:27:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:29:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('6', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/da in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:30:19 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, integer given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 72 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(72): Event->trigger('post.admin.mega...', 10)
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->addMegaheader(Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(23): Proxy->__call('addMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->add()
+#5 /home/photo167/public_html/dahanimmobil in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:31:38 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '10')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('10', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/ in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:32:26 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '10')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('10', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/ in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:40:49 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '10')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('10', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/ in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:53:52 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php on line 156 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/megaheader/megaheader.php(156): Event->trigger('post.admin.mega...', '10')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelMegaheaderMegaheader->editMegaheader('10', Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/megaheader.php(60): Proxy->__call('editMegaheader', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesMegaheader->edit()
+#5 /home/photo167/public_html/ in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:55:53 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 52 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(52): Event->trigger('pre.admin.faq.d...', '6')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->deletefaq('6')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(112): Proxy->__call('deletefaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->delete()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execu in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:56:11 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 52 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(52): Event->trigger('pre.admin.faq.d...', '15')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->deletefaq('15')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(112): Proxy->__call('deletefaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->delete()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->exe in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[18-May-2018 18:56:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to Event::trigger() must be of the type array, string given, called in /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php on line 52 and defined in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php:19
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/model/faq/faq.php(52): Event->trigger('pre.admin.faq.d...', '17')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelfaqFaq->deletefaq('17')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/controller/pages/faq.php(112): Proxy->__call('deletefaq', Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerPagesFaq->delete()
+#5 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->exe in /home/photo167/public_html/dahanimmobilier.com/system/engine/event.php on line 19
+[20-May-2018 00:36:12 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'photo167_dadb2u'@'localhost' (using password: YES) in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 7
+[20-May-2018 00:36:12 UTC] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 10
+[20-May-2018 00:36:12 UTC] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 10
+[20-May-2018 00:36:12 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'photo167_dadb2u', 'soleil456*', 'photo167_dadb2', '3306')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'photo167_dadb2u', 'soleil456*', 'photo167_dadb2', '3306')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/startup.php(123): require_once('/home/photo167/...')
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 10
+[20-May-2018 02:18:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'photo167_dadb2u'@'localhost' (using password: YES) in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 7
+[20-May-2018 02:18:36 UTC] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 10
+[20-May-2018 02:18:36 UTC] PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 10
+[20-May-2018 02:18:36 UTC] PHP Fatal error:  Uncaught Exception: Error: <br />Error No:  in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(9): DB\MySQLi->__construct('localhost', 'photo167_dadb2u', 'soleil456*', 'photo167_dadb2', '3306')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(36): DB->__construct('mysqli', 'localhost', 'photo167_dadb2u', 'soleil456*', 'photo167_dadb2', '3306')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/startup.php(123): require_once('/home/photo167/...')
+#3 /home/photo167/public_html/dahanimmobilier.com/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 10
+[23-May-2018 15:51:24 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[23-May-2018 15:51:24 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[23-May-2018 15:51:42 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[23-May-2018 15:51:42 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[23-May-2018 15:53:07 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[23-May-2018 15:55:10 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model catalog/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(125): Loader->model('catalog/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/sys in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[23-May-2018 15:57:55 UTC] PHP Fatal error:  Uncaught Exception: Error: Could not load model pages/gallery! in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php:59
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php(249): Loader->model('pages/gallery')
+#1 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#2 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/ in /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php on line 59
+[23-May-2018 15:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getgallaries() on null in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php:253
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(103): Front->dispatch(Object(Action), Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/startup.php( in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php on line 253
+[23-May-2018 15:58:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getgallaries() on null in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php:253
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(103): Front->dispatch(Object(Action), Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/startup.php( in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php on line 253
+[23-May-2018 15:58:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getgallaries() on null in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php:253
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(103): Front->dispatch(Object(Action), Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/startup.php( in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php on line 253
+[23-May-2018 15:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getgallaries() on null in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php:253
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(103): Front->dispatch(Object(Action), Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/startup.php( in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php on line 253
+[23-May-2018 15:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getGallaries() on null in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php:253
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(103): Front->dispatch(Object(Action), Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/startup.php( in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php on line 253
+[23-May-2018 15:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getGallaries() on null in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php:253
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(103): Front->dispatch(Object(Action), Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/startup.php( in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php on line 253
+[23-May-2018 15:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getGallaries() on null in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php:253
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerExtensionModuletmdgallery->index()
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/controller/startup/router.php(26): Action->execute(Object(Registry), Array)
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): ControllerStartupRouter->index()
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(34): Action->execute(Object(Registry))
+#4 /home/photo167/public_html/dahanimmobilier.com/system/engine/front.php(29): Front->execute(Object(Action))
+#5 /home/photo167/public_html/dahanimmobilier.com/system/framework.php(103): Front->dispatch(Object(Action), Object(Action))
+#6 /home/photo167/public_html/dahanimmobilier.com/system/startup.php( in /home/photo167/public_html/dahanimmobilier.com/admin/controller/extension/module/tmdgallery.php on line 253
+[04-Jun-2018 05:35:14 UTC] PHP Fatal error:  Uncaught Exception: Error: Table 'photo167_dadb2.oc_property_extrafields' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_property_extrafields WHERE property_id = '24' in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(16): DB\MySQLi->query('DELETE FROM oc_...', Array)
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/model/property/property.php(61): DB->query('DELETE FROM oc_...')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelPropertyProperty->editProperty('24', Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/admin/controller/property/property.php(68): Proxy->__call('editProperty', Array)
+#5 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): Con in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 40
+[04-Jun-2018 05:35:26 UTC] PHP Fatal error:  Uncaught Exception: Error: Table 'photo167_dadb2.oc_property_extrafields' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_property_extrafields WHERE property_id = '24' in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(16): DB\MySQLi->query('DELETE FROM oc_...', Array)
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/model/property/property.php(61): DB->query('DELETE FROM oc_...')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelPropertyProperty->editProperty('24', Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/admin/controller/property/property.php(68): Proxy->__call('editProperty', Array)
+#5 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): Con in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 40
+[04-Jun-2018 05:35:40 UTC] PHP Fatal error:  Uncaught Exception: Error: Table 'photo167_dadb2.oc_property_extrafields' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_property_extrafields WHERE property_id = '24' in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(16): DB\MySQLi->query('DELETE FROM oc_...', Array)
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/model/property/property.php(61): DB->query('DELETE FROM oc_...')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelPropertyProperty->editProperty('24', Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/admin/controller/property/property.php(68): Proxy->__call('editProperty', Array)
+#5 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): Con in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 40
+[04-Jun-2018 05:40:10 UTC] PHP Fatal error:  Uncaught Exception: Error: Table 'photo167_dadb2.oc_property_extrafields' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_property_extrafields WHERE property_id = '24' in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(16): DB\MySQLi->query('DELETE FROM oc_...', Array)
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/model/property/property.php(61): DB->query('DELETE FROM oc_...')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelPropertyProperty->editProperty('24', Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/admin/controller/property/property.php(68): Proxy->__call('editProperty', Array)
+#5 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): Con in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 40
+[04-Jun-2018 05:40:17 UTC] PHP Fatal error:  Uncaught Exception: Error: Table 'photo167_dadb2.oc_property_extrafields' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_property_extrafields WHERE property_id = '24' in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/photo167/public_html/dahanimmobilier.com/system/library/db.php(16): DB\MySQLi->query('DELETE FROM oc_...', Array)
+#1 /home/photo167/public_html/dahanimmobilier.com/admin/model/property/property.php(61): DB->query('DELETE FROM oc_...')
+#2 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/loader.php(178): ModelPropertyProperty->editProperty('24', Array)
+#3 /home/photo167/public_html/dahanimmobilier.com/system/engine/proxy.php(25): Loader->{closure}(Array, Array)
+#4 /home/photo167/public_html/dahanimmobilier.com/admin/controller/property/property.php(68): Proxy->__call('editProperty', Array)
+#5 /home/photo167/public_html/dahanimmobilier.com/system/storage/modification/system/engine/action.php(51): Con in /home/photo167/public_html/dahanimmobilier.com/system/library/db/mysqli.php on line 40

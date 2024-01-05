@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title']    = 'vragen';// Error$_['error_permission'] = 'Waarschuwing: u bent niet gemachtigd om de dashboardlijst te wijzigen!';

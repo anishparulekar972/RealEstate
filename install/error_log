@@ -1,0 +1,48 @@
+[04-Dec-2018 02:49:26 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'ocsoluti_checkrs.oc_product' doesn't exist<br />Error No: 1146<br />UPDATE `oc_product` SET `viewed` = '0'' in /home/ocsolutionsco/public_html/dec-realestate/system/library/db/mysqli.php:79
+Stack trace:
+#0 /home/ocsolutionsco/public_html/dec-realestate/system/library/db.php(31): DB\MySQLi->query('UPDATE `oc_prod...', Array)
+#1 /home/ocsolutionsco/public_html/dec-realestate/install/model/install/install.php(93): DB->query('UPDATE `oc_prod...')
+#2 [internal function]: ModelInstallInstall->database(Array)
+#3 /home/ocsolutionsco/public_html/dec-realestate/system/storage/modification/system/engine/loader.php(178): call_user_func_array(Array, Array)
+#4 [internal function]: Loader->{closure}(Array, Array)
+#5 /home/ocsolutionsco/public_html/dec-realestate/system/engine/proxy.php(49): call_user_func_array(Object(Closure), Array)
+#6 /home/ocsolutionsco/public_html/dec-realestate/install/controller/install/step_3.php(21): Proxy->__call('database', Array)
+#7 /hom in /home/ocsolutionsco/public_html/dec-realestate/system/library/db/mysqli.php on line 79
+[04-Dec-2018 02:55:03 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'oc_agent_member' already exists<br />Error No: 1050<br />
+
+
+
+CREATE TABLE `oc_agent_member` (
+  `agent_member_id` int(100) NOT NULL,
+  `property_agent_id` int(100) NOT NULL,
+  `plans_id` int(100) NOT NULL,
+  `date_added` date NOT NULL,
+  `date_end` date NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+' in /home/ocsolutionsco/public_html/dec-realestate/system/library/db/mysqli.php:79
+Stack trace:
+#0 /home/ocsolutionsco/public_html/dec-realestate/system/library/db.php(31): DB\MySQLi->query('\n\n\n\nCREATE TABL...', Array)
+#1 /home/ocsolutionsco/public_html/dec-realestate/install/model/install/install.php(51): DB->query('\n\n\n\nCREATE TABL...')
+#2 [internal function]: ModelInstallInstall->database(Array)
+#3 /home/ocsolutionsco/public_html/dec-realestate/system/storage/modification/system/engine/loader.php(178): call_user_func_array(Array, Array)
+#4 [internal function]: Loader->{closure}(Array, Array)
+#5 /home/ocsolutionsco/public_html/dec-realestate/syst in /home/ocsolutionsco/public_html/dec-realestate/system/library/db/mysqli.php on line 79
+[04-Dec-2018 02:55:17 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'oc_agent_member' already exists<br />Error No: 1050<br />
+
+
+
+CREATE TABLE `oc_agent_member` (
+  `agent_member_id` int(100) NOT NULL,
+  `property_agent_id` int(100) NOT NULL,
+  `plans_id` int(100) NOT NULL,
+  `date_added` date NOT NULL,
+  `date_end` date NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+' in /home/ocsolutionsco/public_html/dec-realestate/system/library/db/mysqli.php:79
+Stack trace:
+#0 /home/ocsolutionsco/public_html/dec-realestate/system/library/db.php(31): DB\MySQLi->query('\n\n\n\nCREATE TABL...', Array)
+#1 /home/ocsolutionsco/public_html/dec-realestate/install/model/install/install.php(51): DB->query('\n\n\n\nCREATE TABL...')
+#2 [internal function]: ModelInstallInstall->database(Array)
+#3 /home/ocsolutionsco/public_html/dec-realestate/system/storage/modification/system/engine/loader.php(178): call_user_func_array(Array, Array)
+#4 [internal function]: Loader->{closure}(Array, Array)
+#5 /home/ocsolutionsco/public_html/dec-realestate/syst in /home/ocsolutionsco/public_html/dec-realestate/system/library/db/mysqli.php on line 79

@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title']    = 'Properties';$_['error_permission'] = 'Advarsel: Du har ikke tilladelse til at ændre dashboard online!';

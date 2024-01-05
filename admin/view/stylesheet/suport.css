@@ -1,0 +1,124 @@
+@font-face {   
+	font-family: "Ubuntu-Medium";   
+	font-style: normal;  
+	font-weight: normal;   
+	src: local("Ubuntu-Medium"), url("../font/Ubuntu-Medium.woff") format("woff"); 
+}
+@font-face {   
+	font-family: "Ubuntu-Regular";   
+	font-style: normal;  
+	font-weight: normal;   
+	src: local("Ubuntu-Regular"), url("../font/Ubuntu-Regular.woff") format("woff"); 
+}
+@font-face {   
+	font-family: "Ubuntu-Light";   
+	font-style: normal;  
+	font-weight: normal;   
+	src: local("Ubuntu-Light"), url("../font/Ubuntu-Light.woff") format("woff"); 
+}
+#getsupport {padding:30px 0px;}
+#getsupport .product-thumb {
+	border: 1px solid #1fb3f4;
+	margin-bottom: 20px;
+	overflow: auto;
+	background:#fff;
+	padding:20px 10px;
+	border-radius:5px;
+box-shadow:inset 0 5px 0 rgba(0, 0, 0, 0.07);
+/*box-shadow:         0px -2px 0px 0px rgba(50, 50, 50, 0.54);*/
+}
+#getsupport .product-thumb .image {
+	text-align: center;
+}
+#getsupport .product-thumb .image a{display:block;}
+
+#getsupport .product-thumb .image img {
+	margin-left: auto;
+	margin-right: auto;
+}
+#getsupport .community{background:url(../icon/commu_icn.png) no-repeat; height:112px; width:130px; display:inline-block ;margin-left: auto;
+	margin-right: auto;}
+#getsupport .community:hover{background:url(../icon/commu_icn_hover.png) no-repeat;}
+#getsupport .Tickets{background:url(../icon/ticket_icn.png) no-repeat; height:112px; width:130px; display:inline-block ;margin-left: auto;
+	margin-right: auto;}
+#getsupport .Tickets:hover{background:url(../icon/ticket_icn_hover.png) no-repeat;}
+#getsupport .Pre-sale{background:url(../icon/pre_icn.png) no-repeat;height:112px; width:130px; display:inline-block ;margin-left: auto;
+	margin-right: auto;}
+#getsupport .Pre-sale:hover{background:url(../icon/pre_icn_hover.png) no-repeat;}
+#getsupport h4{font-family: "Ubuntu-Medium";font-size:28px;color:#555;text-align:center; }
+#getsupport h4:hover{color:#1fb3f4;}
+#getsupport p{font-family: "Ubuntu-Regular";font-size:16px;color:#555555;text-align:center;}
+#getsupport .product-thumb .browse{width:100%;}
+#getsupport .product-thumb .browse button {
+	width:100%;
+	border:1px solid #1fb3f4 ;
+	display: inline-block;
+	background-color: #fff;
+	color: #555;
+	line-height: 40px;
+	font-family: "Ubuntu-Medium";  
+	font-size:16px;
+	text-align: center;
+	margin-top:10px;
+	border-radius:10px;
+}
+#getsupport .product-thumb .browse  a{text-align:center;}
+#getsupport .product-thumb .browse button:hover{background:#1fb3f4;color:#fff;}
+#getsupport h3{font-family: "Ubuntu-Regular";font-size:22px;color:#555555;}
+#getsupport .get-support{background:url(../icon/support_icn.png) no-repeat; height:31px; width:35px; display:inline-block ;vertical-align:middle;}
+#getsupport .your-licence{background:url(../icon/lisec_icn.png) no-repeat; height:31px; width:31px; display:inline-block ;vertical-align:middle;}
+.shadow_top{
+	background: #1fb3f4;
+	width:100%;
+	height:50px;
+}
+#getsupport .padding{padding:0px 10px;margin-top:-30px;
+}
+#getsupport .input-lg {
+	border: 1px solid #1fb3f4;
+	height: 40px;
+	line-height: 20px;
+	padding: 5px 10px;
+	font-family: "Ubuntu-Regular";
+	font-size:14px;
+	display:block;
+	 opacity: 1;
+ visibility: visible;
+ margin-bottom:10px;
+box-shadow:0px 0px -15px 0px rgba(50, 50, 50, 0.01);
+}
+#getsupport .product-thumb .caption{min-height:140px;}
+#getsupport .activate{width:60%;padding-left:50px;}
+#getsupport .product-thumb .activate button {
+	width:100%;
+	border:1px solid #1fb3f4 ;
+	display: inline-block;
+	background-color: #1fb3f4;
+	color: #fff;
+	line-height: 40px;
+	font-family: "Ubuntu-Medium";  
+	font-size:14px;
+	text-align: center;
+	margin-top:10px;
+	border-radius:10px;
+	margin-bottom:10px;
+	float:right;
+}
+#getsupport .lic p{text-align:left;font-family: "Ubuntu-Regular";font-size:16px;color:#555555;padding-top:20px;padding-bottom:10px;}
+#getsupport .form-control::-moz-placeholder {
+    color: #a59d9d;
+		font-family: "Ubuntu-Regular";
+		font-size:14px;
+    opacity: 1;
+}
+.youlic {font-size:14px;font-family: "Ubuntu-Light";color:#555;}
+@media (max-width:768px){
+#getsupport .activate{padding-left:0px;width:65%;}
+#getsupport .product-thumb {padding:20px 5px;}
+}
+@media (max-width: 640px) {#getsupport .activate{padding-left:0px;width:45%;}}
+@media (max-width: 1200px) {
+#getsupport .activate{padding-left:0px;width:70%;}
+#getsupport .product-thumb .browse button {font-size:14px;}
+#getsupport .product-thumb  .caption{min-height:180px;}
+}

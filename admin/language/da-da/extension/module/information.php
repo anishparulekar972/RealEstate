@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title']    = 'Information';// Text$_['text_extension']   = 'Udvidelser';$_['text_success']     = 'Succes: Du har ændret informationsmodul!';$_['text_edit']        = 'Rediger informationsmodul';// Entry$_['entry_status']     = 'Status';// Error$_['error_permission'] = 'Advarsel: Du har ikke tilladelse til at ændre informationsmodul!';

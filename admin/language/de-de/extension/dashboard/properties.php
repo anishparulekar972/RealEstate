@@ -1,0 +1,1 @@
+<?php// Heading$_['heading_title']    = 'eigenschappen';$_['error_permission'] = 'Waarschuwing: u bent niet gemachtigd om het dashboard online te wijzigen!';
